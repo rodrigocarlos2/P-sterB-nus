@@ -11,3 +11,9 @@
 <p align="center">
   <img src="IoT.jpg" width="60%">
 </p>
+
+* Cloud Computing
+
+<p align="center">
+  <img src="CloudComputing.jpg" width="60%">
+</p>
