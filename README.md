@@ -6,10 +6,10 @@
 
 # Images
 
-* Internet of Things
+* Mobile Computing
 
 <p align="center">
-  <img src="IoT.jpg" width="60%">
+  <img src="MobileComputing.jpg" width="60%">
 </p>
 
 * Cloud Computing
@@ -22,4 +22,10 @@
 
 <p align="center">
   <img src="MobileCloudComputing.jpg" width="60%">
+</p>
+
+* Internet of Things
+
+<p align="center">
+  <img src="IoT.jpg" width="60%">
 </p>
