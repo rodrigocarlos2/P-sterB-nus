@@ -1,1 +1,3 @@
-# P-sterB-nus
+# Pôster Bônus
+
+<img src="poster-bonus.ppt"></img>
