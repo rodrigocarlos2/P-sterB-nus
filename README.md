@@ -4,9 +4,29 @@
 
 * After open the link, click on Download to get the file.
 
-# Images
+# Tópicos
 
 * Mobile Computing
+
+<p align="justify">
+
+Caracteriza-se  como uma tecnologia que permite a 
+transmissão  de dados, voz e de vídeo através de um 
+computador ou qualquer outro dispositivo sem que haja a necessidade  de uma ligação física e fixa. 
+
+</p>
+
+<p align="justify">
+
+A Mobile Computing engloba dois conceitos principais que são: Hardware Móvel e Software Móvel. Hardware Móvel inclui dispositivos e ou componentes de um dispositivo que recebem serviços de portabilidade. Esses dispositivos podem ser laptops, smartphones, tablets e PC portáteis. 
+
+</p>
+
+<p align="justify">
+
+O Software Móvel é o programa executado no Hardware Móvel. Eles podem ser Sistemas Operacionais como Android, Windows Mobile, IOS, entre outros.  
+
+</p>
 
 <p align="center">
   <img src="MobileComputing.jpg" width="60%">
