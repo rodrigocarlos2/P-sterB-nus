@@ -9,5 +9,5 @@
 * Internet of Things
 
 <p align="center">
-  <img src="IoT.jpg" width="80%">
+  <img src="IoT.jpg" width="60%">
 </p>
