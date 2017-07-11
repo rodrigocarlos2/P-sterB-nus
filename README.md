@@ -1,3 +1,3 @@
 # Pôster Bônus
 
-<img src="poster-bonus.ppt"></img>
+[Pôster](poster-bonus.ppt)
