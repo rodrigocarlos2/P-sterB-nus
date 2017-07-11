@@ -17,3 +17,9 @@
 <p align="center">
   <img src="CloudComputing.jpg" width="60%">
 </p>
+
+* Mobile Cloud Computing
+
+<p align="center">
+  <img src="MobileCloudComputing.jpg" width="60%">
+</p>
