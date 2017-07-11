@@ -6,7 +6,7 @@
 
 # Tópicos
 
-* Mobile Computing
+<h2> Mobile Computing </h2>
 
 <p align="justify">
 
