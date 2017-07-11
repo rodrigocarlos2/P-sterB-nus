@@ -47,7 +47,7 @@ Exemplos de Cloud Computing são os serviços como Dropbox, Google drive, iCloud
 </p>
 
 <p align="center">
-  <img src="CloudComputing.jpg" width="60%">
+  <img src="CloudComputing.png" width="60%">
 </p>
 
 <h2> Mobile Cloud Computing </h2>
